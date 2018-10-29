@@ -10,7 +10,6 @@ import(
 )
 
 func main(){
-    fmt.Println("Hello Face Group")
     fmt.Println(case1.HelloCase1())
     fmt.Println(case2.HelloCase2())
     fmt.Println(case3example.HelloCase3())
